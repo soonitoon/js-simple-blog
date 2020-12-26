@@ -5,4 +5,4 @@ javascript practice
 - write title and text
 - upload it
 
-try it! 
+try it! https://soonitoon.github.io/js-simple-blog/
